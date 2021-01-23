@@ -1,0 +1,17 @@
+# include <iostream>
+using namespace std;
+
+int main(){
+	cout<<"Oi, eu sou o Goku!"<<endl;
+
+	int i = 0;
+
+	for (j = 0; j <= 10; j ++){
+		cout<<i + j<<endl;
+		if (j % 2 == 0){
+			i = i + 1;
+		}
+	}
+	
+	return 0;
+}

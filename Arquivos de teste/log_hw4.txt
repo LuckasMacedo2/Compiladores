@@ -1,0 +1,17 @@
+1-> # include <iostream>:[comentarios] 
+2->  using:[identificador]   namespace:[identificador]  ;:[operador]  std:[identificador] 
+3->
+4->  int:[reservada]  (:[operador]  main:[identificador]  ):[operador]  {:[caracter] 
+5-> <:[caracter]  cout:[identificador]  <:[caracter]  ":[caracter]  ,:[caracter]  Oi:[identificador]   eu:[identificador]   sou:[identificador]   o:[identificador]  !:[caracter]  Goku:[identificador]  ":[caracter]  <:[caracter]  <:[caracter]  ;:[operador]  endl:[identificador] 
+6->
+7->  int:[reservada]   i:[identificador]  =:[operador]  ;:[operador]  0:[numero] 
+8->
+9->  for:[reservada]  (:[operador]   j:[identificador]  =:[operador]  ;:[operador]  0:[numero]   j:[identificador]  <=:[comparador]  ;:[operador]  10:[numero]   j:[identificador]  +:[aritmetico]  +:[aritmetico]  ):[operador]  {:[caracter] 
+10-> <:[caracter]  cout:[identificador]  <:[caracter]   i:[identificador]  +:[aritmetico]  <:[caracter]  j:[identificador]  <:[caracter]  ;:[operador]  endl:[identificador] 
+11->  if:[if]  (:[operador]   j:[identificador]  %:[caracter]   2:[numero]  ==:[comparador]  ):[operador]  0:[numero]  {:[caracter] 
+12->  i:[identificador]  =:[operador]   i:[identificador]  +:[aritmetico]  ;:[operador]  1:[numero] 
+13-> }:[caracter] 
+14-> }:[caracter] 
+15->
+16->  return:[reservada]  ;:[operador]  0:[numero] 
+17-> }:[caracter] 

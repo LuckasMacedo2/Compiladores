@@ -1,0 +1,28 @@
+a = 10
+
+
+// a recebe 10 e b recebe a
+b = a
+
+if (1 +1 == 2){
+	cout<<"sim";
+}
+
+9 <= 0
+0 >= 9
+
+					i = j / 0; divisao = i * j -111a a2
+
+erro__                             ísto está erraúd)
+
+
+10.0						10.0.1
+asd // asd
+
+2222a2222
+
+
+
+// Fim do arquivo
+
+2 -- 2 -´´´´´´111[ª

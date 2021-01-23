@@ -1,0 +1,2 @@
+if (a == b) #asdasdadyqtwue  1
+	then A = 10a

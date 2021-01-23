@@ -1,0 +1,15 @@
+Aluno: Lucas Macedo da Silva
+
+Disciplina: Compiladores
+Turma: A02
+
+Professor: Fernando Abadia
+
+Titulo: Trabalho 1 - Exercicio Aula 3.
+
+	Arquivos: analisador.py hw.txt hw1.txt hw2.txt hw3.txt hw4.txt numeros.txt numeros1.txt
+
+O código separa um arquivo e os analisa após retorna uma tabela de token | lexema. 
+Reconhece as palavras if, then, inteiros e numeros. Também foram adicionadas algumas funções que reconhecem mais categorias
+de palavras, porém, dentro do escopo do trabalho. Código escrito com base na sintaxe da lingaugem C/C++, exceto o fato de 
+o comentário ser considerado iniciado pelo caracter '#' e não como '//'.

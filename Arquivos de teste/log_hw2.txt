@@ -1,0 +1,12 @@
+1-> #include <iostream>:[comentarios] 
+2->  using:[identificador]   namespace:[identificador] 
+ std:[identificador] 
+3->
+4->  int:[reservada]  (:[operador]  main:[identificador]  ):[operador]  {:[caracter] 
+5->  int:[reservada]  ,:[caracter]  a:[identificador]  ,:[caracter]  b:[identificador]  ;:[operador]  A:[identificador] 
+6->  a:[identificador]  =:[operador]  ;:[operador]  10:[numero] 
+7->  c:[identificador]  =:[operador]  ;:[operador]  22:[numero] 
+8->  if:[if]  (:[operador]   a:[identificador]  ==:[comparador]  ):[operador]  b:[identificador] 
+9->  then:[then]   A:[identificador]  =:[operador] 
+ 10:[numero] 
+10->
